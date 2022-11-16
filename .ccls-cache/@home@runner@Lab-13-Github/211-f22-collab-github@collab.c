@@ -25,7 +25,7 @@ void LabFunc() {
   printf("akapo3 Aditya Kapoor \n I struggled quite a bit with cloning. Also creating a branch was also hard to understand.
 ");
   printf("Brian Estrada bestr5 \n I learned how to clone the files but i sturggled with the pushing and commit the changes ");
-  printf("hello");
+  
   
 }
 int main()
